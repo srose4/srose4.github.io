@@ -1,0 +1,23 @@
+title: Kritzum
+fullname: Shawn Rose
+description: "An IoT Guru"
+baseurl: ""
+url: ""
+email: shawn.h.rose@gmail.com
+twitter_username: shawnhrose
+github_username:  srose4
+linkedin_link: http://www.linkedin.com/in/srose4
+timezone: America/New_York
+markdown: kramdown
+permalink: pretty
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  input: GFM
+
+
+
